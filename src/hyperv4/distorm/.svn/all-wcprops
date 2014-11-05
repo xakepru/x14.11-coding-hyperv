@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/245/trunk
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/228/trunk/MANIFEST
+END
+setup.py
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/217/trunk/setup.py
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/3/trunk/COPYING
+END
+MANIFEST.in
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/158/trunk/MANIFEST.in
+END
+setup.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/153/trunk/setup.cfg
+END

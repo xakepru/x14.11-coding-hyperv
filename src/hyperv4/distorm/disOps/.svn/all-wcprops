@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/svn/!svn/ver/242/trunk/disOps
+END
+x86db.py
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/215/trunk/disOps/x86db.py
+END
+x86header.py
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/242/trunk/disOps/x86header.py
+END
+disOps.py
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/242/trunk/disOps/disOps.py
+END
+x86sets.py
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/236/trunk/disOps/x86sets.py
+END

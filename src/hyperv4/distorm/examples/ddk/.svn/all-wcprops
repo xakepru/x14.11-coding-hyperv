@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/165/trunk/examples/ddk
+END
+distorm.ini
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/153/trunk/examples/ddk/distorm.ini
+END
+sources
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/153/trunk/examples/ddk/sources
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/165/trunk/examples/ddk/main.c
+END
+dummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/165/trunk/examples/ddk/dummy.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/153/trunk/examples/ddk/README
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/153/trunk/examples/ddk/makefile
+END

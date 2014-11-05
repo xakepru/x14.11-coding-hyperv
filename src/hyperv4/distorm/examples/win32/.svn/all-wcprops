@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/170/trunk/examples/win32
+END
+disasm.vcxproj.filters
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/170/trunk/examples/win32/disasm.vcxproj.filters
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/153/trunk/examples/win32/main.cpp
+END
+disasm.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/170/trunk/examples/win32/disasm.vcxproj
+END
+disasm.sln
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/169/trunk/examples/win32/disasm.sln
+END

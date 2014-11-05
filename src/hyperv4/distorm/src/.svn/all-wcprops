@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/242/trunk/src
+END
+insts.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/236/trunk/src/insts.c
+END
+wstring.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/209/trunk/src/wstring.h
+END
+prefix.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/209/trunk/src/prefix.h
+END
+instructions.c
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/215/trunk/src/instructions.c
+END
+decoder.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/242/trunk/src/decoder.c
+END
+insts.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/215/trunk/src/insts.h
+END
+instructions.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/242/trunk/src/instructions.h
+END
+decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/178/trunk/src/decoder.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/217/trunk/src/config.h
+END
+operands.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/215/trunk/src/operands.c
+END
+operands.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/215/trunk/src/operands.h
+END
+distorm.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/233/trunk/src/distorm.c
+END
+textdefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/209/trunk/src/textdefs.c
+END
+mnemonics.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/228/trunk/src/mnemonics.c
+END
+textdefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/209/trunk/src/textdefs.h
+END
+x86defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/215/trunk/src/x86defs.h
+END
+prefix.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/209/trunk/src/prefix.c
+END
+wstring.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/209/trunk/src/wstring.c
+END
